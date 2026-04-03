@@ -47,4 +47,9 @@ void mergeSort(int low, int high)
     int i = low; 
     int j = mid + 1;
     int k = low;
+
+    while (i <= mid && j <= high) // step 4.d
+    {
+        
+    }
 }
